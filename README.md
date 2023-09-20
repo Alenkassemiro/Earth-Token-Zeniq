@@ -1,7 +1,7 @@
 # EarthToken - Awareness is the first step towards change.
 EarthToken offers various functionalities to facilitate carbon offsetting and promote sustainability. Users, including both individuals and companies, can utilize the platform to redeem carbon credits, effectively compensating for their carbon footprint. The platform aims to democratize access to web3 technology. Additionally, the platform utilizes calculate users' carbon footprint accurately, providing valuable insights for informed decision-making. Furthermore, the platform allows users to stay informed about the latest developments, regulations, and initiatives in the field. Overall, the platform combines technology, accessibility, and education to empower individuals and businesses in their journey towards sustainability and combating climate change.
 
-![Green Modern Environment Presentation](https://github.com/Alenkassemiro/EarthToken/assets/99203402/c33b3f10-4721-41b9-88a6-e4cc4460b025)
+![Green Modern Environment Presentation](../assets/mockup.png)
 
 ## Our Solution
 
@@ -18,7 +18,7 @@ We understand that awareness is the first step towards change. That's why our pl
 In our platform, we believe in the importance of education and knowledge sharing. Therefore, we offer a dedicated news section with updated information about the world of carbon credits. In this section, you will find articles, analyses, and relevant insights about the latest trends, regulations, and innovations in this ever-evolving field. Stay informed about the latest developments and be inspired by success stories of sustainability projects worldwide.
 
 ## Value Proposition Canvas
-![poster Value proposition canvas simple white](https://github.com/Alenkassemiro/EarthToken/assets/99203402/524b2c07-76f5-45be-9156-a209801183d3)
+![poster Value proposition canvas simple white](../assets/value.png)
 
 ## Documentation
 
@@ -43,7 +43,8 @@ ZENIQ is also a company with a sustainability focus, making it a platform that i
 
 We have created a plugin integrated with the Nomo app to make access easier for all users.</br>
 </br>
-<img width="200" alt="QR_Code_Earth_Token" src="https://github.com/Alenkassemiro/Earth-Token-Zeniq/assets/68920578/bf1f4003-916f-4ef7-901d-0e32a8ec3a6a">
+
+![QR](../assets/QR_Code_Earth_Token.png)
 
 ### Plugin Link:
 
