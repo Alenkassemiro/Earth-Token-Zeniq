@@ -20,7 +20,9 @@ In our platform, we believe in the importance of education and knowledge sharing
 ## Value Proposition Canvas
 ![poster Value proposition canvas simple white](https://github.com/Alenkassemiro/EarthToken/assets/99203402/524b2c07-76f5-45be-9156-a209801183d3)
 
-## Our solution architecture
+## Documentation
+
+Go to docs folder for more details of presentation pdf and demo video
 
 ## Why Zeniq?
 
@@ -41,7 +43,7 @@ ZENIQ is also a company with a sustainability focus, making it a platform that i
 
 We have created a plugin integrated with the Nomo app to make access easier for all users.</br>
 </br>
-<img width="114" alt="QR_Code_Earth_Token" src="https://github.com/Alenkassemiro/Earth-Token-Zeniq/assets/68920578/523683ea-8077-4214-8a7f-6e82472c447b">
+<img width="200" alt="QR_Code_Earth_Token" src="https://github.com/Alenkassemiro/Earth-Token-Zeniq/assets/68920578/bf1f4003-916f-4ef7-901d-0e32a8ec3a6a">
 
 ### Plugin Link:
 
