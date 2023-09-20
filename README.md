@@ -41,7 +41,7 @@ ZENIQ is also a company with a sustainability focus, making it a platform that i
 
 We have created a plugin integrated with the Nomo app to make access easier for all users.</br>
 </br>
-<img src="https://github.com/Alenkassemiro/EarthToken/assets/99203402/388262c0-07ba-44d8-83ea-35df76e86826" width="200px;" />
+<img width="114" alt="QR_Code_Earth_Token" src="https://github.com/Alenkassemiro/Earth-Token-Zeniq/assets/68920578/523683ea-8077-4214-8a7f-6e82472c447b">
 
 ### Plugin Link:
 
